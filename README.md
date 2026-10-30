@@ -2,9 +2,13 @@
 
 <p align="center"><b>Software Engineer | Applied AI &amp; Backend Engineering</b></p>
 
+<p align="center">
+  <img src="assets/status.svg" width="470" alt="Status: training local LLMs, Docker still alive"/>
+</p>
+
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&height=45&lines=Software+Engineer+%26+CS+Student+%F0%9F%90%8D;Teaching+AI+agents+to+triage+tickets+so+humans+don't+have+to+%F0%9F%A4%96;ASP.NET+Core+%26+SQL+Server%3A+20%2B+endpoints+and+counting+%E2%9A%A1;Selenium+%2B+Postman+%2B+Docker+%3D+automate+everything+%F0%9F%A7%AA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&height=45&lines=Software+Engineer+%26+CS+%26+Student+%F0%9F%90%8D;Teaching+AI+agents+to+triage+tickets+so+humans+don't+have+to+%F0%9F%A4%96;ASP.NET+Core+%26+SQL+Server%3A+20%2B+endpoints+and+counting+%E2%9A%A1;Selenium+%2B+Postman+%2B+Docker+%3D+automate+everything+%F0%9F%A7%AA" alt="Typing SVG" />
   </a>
 </div>
 
@@ -41,7 +45,7 @@ class Mustafa:
 </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" height="10" alt=""/>
 
 ## 🩺 Current Mood
 
@@ -60,7 +64,7 @@ Severity: High
 Solution: Prompting politely and lowering temperature to 0.1
 ```
 
----
+<img src="assets/divider.svg" width="100%" height="10" alt=""/>
 
 ## 🛠️ What I Actually Do
 
@@ -69,32 +73,32 @@ Solution: Prompting politely and lowering temperature to 0.1
 - 🧪 **Break things on purpose:** Selenium POM frameworks and Postman regression suites, because bugs are cheaper to find on my laptop than in production.
 - 🐳 **Ship it:** Docker, Kubernetes, Terraform, and GitHub Actions, so "it works on my machine" retires for good.
 
----
+<img src="assets/divider.svg" width="100%" height="10" alt=""/>
 
 ## 📊 Numbers I'm Not Embarrassed By
 
-| What | Count |
-| --- | --- |
-| Backend REST API endpoints built (ITI) | **20+** |
-| SQL Server stored procedures written | **15+** |
-| Web test scenarios automated (DEPI) | **50+** |
-| Postman-covered endpoints | **30+** |
-| Faster regression cycles thanks to POM | **40%** |
-| Postman regression pass rate | **100%** |
-| Cups of coffee | *Unmeasurable* |
+| What                                   | Count          |
+| -------------------------------------- | -------------- |
+| Backend REST API endpoints built (ITI) | **20+**        |
+| SQL Server stored procedures written   | **15+**        |
+| Web test scenarios automated (DEPI)    | **50+**        |
+| Postman-covered endpoints              | **30+**        |
+| Faster regression cycles thanks to POM | **40%**        |
+| Postman regression pass rate           | **100%**       |
+| Cups of coffee                         | _Unmeasurable_ |
 
----
+<img src="assets/divider.svg" width="100%" height="10" alt=""/>
 
 ## 🧭 The Journey So Far
 
-| When | Where | What I did |
-| --- | --- | --- |
-| **10/2023 → now** | Cairo University, Faculty of Science | B.Sc. Computer Science (Math & CS Dept.): ML, AI, Linear Algebra, DS&A, Computer Graphics, Databases |
-| **07/2025 → 09/2025** | **ITI**, Full Stack .NET Developer Intern | Built 20+ REST endpoints in C# / ASP.NET Core, designed normalized SQL Server schemas, wrote 15+ stored procedures |
-| **09/2024 → 06/2025** | **DEPI**, Software Testing Engineer Intern | Automated 50+ Selenium/TestNG scenarios, built Postman collections, ran the full STLC with SQL data verification |
-| **2026 (in progress)** | GCI World + DEPI DevOps Track | AI & ML engineering, Linux, Docker, K8s, CI/CD, Terraform |
+| When                   | Where                                      | What I did                                                                                                         |
+| ---------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| **10/2023 → now**      | Cairo University, Faculty of Science       | B.Sc. Computer Science (Math & CS Dept.): ML, AI, Linear Algebra, DS&A, Computer Graphics, Databases               |
+| **07/2025 → 09/2025**  | **ITI**, Full Stack .NET Developer Intern  | Built 20+ REST endpoints in C# / ASP.NET Core, designed normalized SQL Server schemas, wrote 15+ stored procedures |
+| **09/2024 → 06/2025**  | **DEPI**, Software Testing Engineer Intern | Automated 50+ Selenium/TestNG scenarios, built Postman collections, ran the full STLC with SQL data verification   |
+| **2026 (in progress)** | GCI World + DEPI DevOps Track              | AI & ML engineering, Linux, Docker, K8s, CI/CD, Terraform                                                          |
 
----
+<img src="assets/divider.svg" width="100%" height="10" alt=""/>
 
 ## 💻 Tech Stack
 
@@ -154,7 +158,7 @@ Docker & DevOps       ▓▓▓▓▓▓▓▓░░  Currently in training (DEP
 Googling Error Logs   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Infinite
 ```
 
----
+<img src="assets/divider.svg" width="100%" height="10" alt=""/>
 
 ## 🤯 The AI Agent Workflow Life
 
@@ -180,7 +184,7 @@ Googling Error Logs   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
 "Please stick to the Pydantic model..."
 ```
 
----
+<img src="assets/divider.svg" width="100%" height="10" alt=""/>
 
 ## 🔄 Daily Workflow
 
@@ -196,11 +200,11 @@ flowchart TD
     G --> H["Push to Main and Pray"]
 ```
 
----
+<img src="assets/divider.svg" width="100%" height="10" alt=""/>
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Agent Workflows & Cloud Microservices *(in progress)*
+### 🤖 AI Agent Workflows & Cloud Microservices _(in progress)_
 
 `Python` `FastAPI` `Pydantic` `Scikit-Learn` `Ollama` `Lightning AI` `OmniRoute`
 
@@ -210,7 +214,7 @@ Async microservices that plug agentic workflows into the application core. Agent
 Accuracy: High | Latency: Low | LLM Hallucinations: Managed
 ```
 
-### 🚗 Motorak: Vehicle Services Platform *(ITI Capstone)*
+### 🚗 Motorak: Vehicle Services Platform _(ITI Capstone)_
 
 `ASP.NET Core` `EF Core` `SQL Server`
 
@@ -228,13 +232,13 @@ Full-stack developer **and** GitHub Manager for a 6-student team: React UI, 10+ 
 
 Page Object Model UI framework plus Postman regression suites covering 30+ endpoints, with a 100% pass rate.
 
-### ⚔️ Knight Combat: 2D Game *(CS304 Computer Graphics)*
+### ⚔️ Knight Combat: 2D Game _(CS304 Computer Graphics)_
 
 `Java` `JOGL (OpenGL)`
 
 A 2D game built from the rendering pipeline up: scene management, input handling, 2D transformations, and texture mapping.
 
----
+<img src="assets/divider.svg" width="100%" height="10" alt=""/>
 
 ## 🌐 Connect With Me
 
