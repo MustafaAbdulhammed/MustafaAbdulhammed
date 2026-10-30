@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&height=45&lines=Software+Engineer+%26+CS+%2B+Math+Student+%F0%9F%90%8D;Teaching+AI+agents+to+triage+tickets+so+humans+don't+have+to+%F0%9F%A4%96;ASP.NET+Core+%26+SQL+Server%3A+20%2B+endpoints+and+counting+%E2%9A%A1;Selenium+%2B+Postman+%2B+Docker+%3D+automate+everything+%F0%9F%A7%AA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&height=45&lines=Software+Engineer+%26+CS+Student+%F0%9F%90%8D;Teaching+AI+agents+to+triage+tickets+so+humans+don't+have+to+%F0%9F%A4%96;ASP.NET+Core+%26+SQL+Server%3A+20%2B+endpoints+and+counting+%E2%9A%A1;Selenium+%2B+Postman+%2B+Docker+%3D+automate+everything+%F0%9F%A7%AA" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,7 +21,7 @@ class Mustafa:
     def __init__(self):
         self.name = "Mustafa Abdulhammed"
         self.role = "Software Engineer | Applied AI & Backend"
-        self.education = "B.Sc. Computer Science @ Cairo University (Math & CS Dept.)"
+        self.education = "B.Sc. Computer Science @ Cairo University (Math Dept. CS Single Major)"
         self.experience = "1+ year: fullstack, QA automation, DevOps"
         self.location = "Cairo, Egypt 🇪🇬"
         self.coffee = "Mandatory"
